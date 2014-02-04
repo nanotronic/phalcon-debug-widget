@@ -1,5 +1,5 @@
 {
-    "name": "phalcon/pwd",
+    "name": "phalcon/pdw",
     "type": "library",
     "description": "Debug Widget for Phalcon.",
     "keywords": ["framework", "phalcon"],
@@ -7,7 +7,7 @@
     "license": "BSD-3",
     "autoload": {
         "psr-0": {
-            "PWD": "PWD/"
+            "PDW": "PDW/"
         }
      }
 }
