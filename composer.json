@@ -4,11 +4,6 @@
     "description": "Debug Widget for Phalcon.",
     "keywords": ["framework", "phalcon"],
     "homepage": "http://phalconphp.com",
-    "license": "BSD-3",
-    "autoload": {
-        "psr-0": {
-            "PWD": "phalcon/pwd/"
-        }
-    }
+    "license": "BSD-3"
 
 }
