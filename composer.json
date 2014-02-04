@@ -7,7 +7,7 @@
     "license": "BSD-3",
     "autoload": {
         "psr-0": {
-            "PWD": "pwd/"
+            "PWD": "phalcon/pwd/"
         }
     }
 
